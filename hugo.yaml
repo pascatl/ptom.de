@@ -1,13 +1,13 @@
-baseURL: "https://ptom.de"
+baseURL: "https://ptom.de/home"
 languageCode: "en-us"
-title: "ptom.de"
+title: "PT"
 theme: PaperMod
 
 params:
   profileMode:
     enabled: true
     title: "Hi!" # optional default will be site title
-    # subtitle: "This is subtitle"
+    subtitle: "🏗️This website is currently under construction🏗️"
   # homeInfoParams:
   #   Title: "hello"
   #   Content: hasdfasdf
