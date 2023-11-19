@@ -17,3 +17,7 @@ As you visit this site, by default, no **personal data is collected**. That mean
 - no tracking
 - no cookies
 - no third party content
+
+## Analytics
+
+This site uses a self-hosted Matomo instance for general statistics like visitor count, etc.

@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi!" # optional default will be site title
-    subtitle: "🏗️This website is currently under construction🏗️"
+    subtitle: "This website is currently under construction🏗️"
   # homeInfoParams:
   #   Title: "hello"
   #   Content: hasdfasdf
